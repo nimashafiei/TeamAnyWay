@@ -1,8 +1,10 @@
 # TeamAnyWay
 
-Import question.json on MongoDB 
+Copy question.json on MongoDB questions collection
 
-Run Server folder on localhost:3000
-Run Client folder by:
-npm install
-npm start
+Run npm install on the both of folders server and UI 
+
+Run Server using npm start
+
+Run UI folder by:
+npm run serve
