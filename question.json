@@ -1,0 +1,119 @@
+/* 1 */
+{
+    "_id" : ObjectId("61d55cc9a91887160c110598"),
+    "test" : 1,
+    "order" : 1,
+    "query" : "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+    "options" : [ 
+        {
+            "text" : "Don’t dare to interrupt them",
+            "introvert" : 50,
+            "extrovert" : 50
+        }, 
+        {
+            "text" : "Think it’s more important to give them some of your time; work can wait",
+            "introvert" : 50,
+            "extrovert" : 50
+        }, 
+        {
+            "text" : "Listen, but with only with half an ear",
+            "introvert" : 50,
+            "extrovert" : 50
+        }, 
+        {
+            "text" : "Interrupt and explain that you are really busy at the moment",
+            "introvert" : 50,
+            "extrovert" : 50
+        }
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("61d55f50a91887160c1105d4"),
+    "test" : 1,
+    "order" : 2,
+    "query" : "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+    "options" : [ 
+        {
+            "text" : "Look at your watch every two minutes",
+            "introvert" : 10,
+            "extrovert" : 90
+        }, 
+        {
+            "text" : "Bubble with inner anger, but keep quiet",
+            "introvert" : 30,
+            "extrovert" : 70
+        }, 
+        {
+            "text" : "Explain to other equally impatient people in the room that the doctor is always running late",
+            "introvert" : 15,
+            "extrovert" : 85
+        }, 
+        {
+            "text" : "Complain in a loud voice, while tapping your foot impatiently",
+            "introvert" : 30,
+            "extrovert" : 70
+        }
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("61d56031a91887160c1105e8"),
+    "test" : 1,
+    "order" : 3,
+    "query" : "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+    "options" : [ 
+        {
+            "text" : "Don’t dare contradict them",
+            "introvert" : 90,
+            "extrovert" : 10
+        }, 
+        {
+            "text" : "Think that they are obviously right",
+            "introvert" : 70,
+            "extrovert" : 30
+        }, 
+        {
+            "text" : "Defend your own point of view, tooth and nail",
+            "introvert" : 85,
+            "extrovert" : 15
+        }, 
+        {
+            "text" : "Continuously interrupt your colleague",
+            "introvert" : 80,
+            "extrovert" : 20
+        }
+    ]
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("61d560ffa91887160c1105f9"),
+    "test" : 1,
+    "order" : 4,
+    "query" : "You are taking part in a guided tour of a museum. You:",
+    "options" : [ 
+        {
+            "text" : "Are a bit too far towards the back so don’t really hear what the guide is saying",
+            "introvert" : 30,
+            "extrovert" : 70
+        }, 
+        {
+            "text" : "Follow the group without question",
+            "introvert" : 20,
+            "extrovert" : 80
+        }, 
+        {
+            "text" : "Make sure that everyone is able to hear properly",
+            "introvert" : 30,
+            "extrovert" : 70
+        }, 
+        {
+            "text" : "Are right up the front, adding your own comments in a loud voice",
+            "introvert" : 60,
+            "extrovert" : 40
+        }
+    ]
+}
